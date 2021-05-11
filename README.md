@@ -1,5 +1,7 @@
 # Demo for Akme Bank with COS    
- 
+
+I am editing this file to trigger CRA
+
 App based on [Command Query Responsibility Segregation (CQRS)](https://martinfowler.com/bliki/CQRS.html)
 Using Java and Quarkus and COS Java SDK. 
  
