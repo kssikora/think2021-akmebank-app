@@ -1,4 +1,6 @@
-# Demo for Akme Bank with COS    
+# Demo for Akme Bank with COS  
+
+Making a change to this file.
  
 App based on [Command Query Responsibility Segregation (CQRS)](https://martinfowler.com/bliki/CQRS.html)
 Using Java and Quarkus and COS Java SDK. 
